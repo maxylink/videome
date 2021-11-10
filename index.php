@@ -1,3 +1,6 @@
+<script>setTimeout(function () {    
+    window.location.href = 'https://localnew.herokuapp.com/'; 
+},5000); // 5 seconds</script>
 <!DOCTYPE html>
 <html>
 <head>
