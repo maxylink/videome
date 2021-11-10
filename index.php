@@ -17,7 +17,7 @@ video {
   Your browser does not support HTML5 video.
 </video>
 
-<p>Resize the browser window to see how the size of the video player will scale.</p>
+
 
 </body>
 </html>
